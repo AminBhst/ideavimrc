@@ -27,3 +27,4 @@ map <c-n>  :NERDTree<CR>
 map <leader>F <Plug>(easymotion-s)
 map <leader>f <Plug>(easymotion-f)
 map \b <Action>(ToggleLineBreakpoint)
+imap jj <Esc>
